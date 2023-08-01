@@ -1,0 +1,201 @@
+Year,Species,Gender,Age Group,antibiotic,value
+2013,Pseudomonas aeruginosa,Male,85 and Over,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Female,13 to 18 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Serratia marcescens,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Acinetobacter pitii,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Serratia marcescens,Female,19 to 64 Years,Amikacin_I,Susceptible
+2013,Acinetobacter baumannii,Male,65 to 84 Years,Amikacin_I,Resistant
+2013,Pseudomonas aeruginosa,Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,Enterobacter cloacae,Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Escherichia coli,Female,85 and Over,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Female,19 to 64 Years,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,Enterobacter cloacae,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Klebsiella aerogenes,Female,19 to 64 Years,Amikacin_I,Susceptible
+2013,Acinetobacter junii,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Male,0 to 2 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,85 and Over,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,,19 to 64 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Female,85 and Over,Amikacin_I,Susceptible
+2013,Pseudomonas aeruginosa,Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Female,85 and Over,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Female,19 to 64 Years,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Klebsiella oxytoca,Female,19 to 64 Years,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Female,13 to 18 Years,Amikacin_I,Susceptible
+2013,Enterobacter cloacae,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Klebsiella pneumoniae,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Klebsiella aerogenes,Female,19 to 64 Years,Amikacin_I,Susceptible
+2013,Enterobacter cloacae,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Enterobacter cloacae,Female,65 to 84 Years,Amikacin_I,Intermediate
+2013,Klebsiella pneumoniae,Male,65 to 84 Years,Amikacin_I,Resistant
+2013,Enterobacter kobei,Female,0 to 2 Years,Amikacin_I,Susceptible
+2013,Serratia marcescens,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Serratia marcescens,Female,85 and Over,Amikacin_I,Susceptible
+2013,Serratia marcescens,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,"Acinetobacter, non-speciated",Female,65 to 84 Years,Amikacin_I,Susceptible
+2013,"Acinetobacter, non-speciated",Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,"Acinetobacter, non-speciated",Female,13 to 18 Years,Amikacin_I,Susceptible
+2013,"Acinetobacter, non-speciated",Male,0 to 2 Years,Amikacin_I,Susceptible
+2013,Klebsiella aerogenes,Male,0 to 2 Years,Amikacin_I,Susceptible
+2013,Enterobacter cloacae,Female,19 to 64 Years,Amikacin_I,Resistant
+2013,Enterobacter cloacae,Male,19 to 64 Years,Amikacin_I,Susceptible
+2013,Acinetobacter lwoffii,Male,65 to 84 Years,Amikacin_I,Susceptible
+2013,Serratia marcescens,Male,19 to 64 Years,Amoxycillin clavulanate_I,Resistant
+2013,Serratia marcescens,Female,19 to 64 Years,Amoxycillin clavulanate_I,Resistant
+2013,Enterobacter cloacae,Female,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Escherichia coli,Female,85 and Over,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella pneumoniae,Female,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Enterobacter cloacae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Klebsiella aerogenes,Female,19 to 64 Years,Amoxycillin clavulanate_I,Resistant
+2013,Klebsiella pneumoniae,Male,0 to 2 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella pneumoniae,Female,85 and Over,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella pneumoniae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella pneumoniae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella oxytoca,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella pneumoniae,Female,13 to 18 Years,Amoxycillin clavulanate_I,Intermediate
+2013,Enterobacter cloacae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Klebsiella pneumoniae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Klebsiella aerogenes,Female,19 to 64 Years,Amoxycillin clavulanate_I,Resistant
+2013,Enterobacter cloacae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Enterobacter cloacae,Female,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Klebsiella pneumoniae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Intermediate
+2013,Enterobacter kobei,Female,0 to 2 Years,Amoxycillin clavulanate_I,Resistant
+2013,Haemophilus influenzae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Male,0 to 2 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Female,3 to 12 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Female,85 and Over,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Streptococcus pneumoniae,Female,0 to 2 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Serratia marcescens,Male,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Serratia marcescens,Female,85 and Over,Amoxycillin clavulanate_I,Susceptible
+2013,Serratia marcescens,Male,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Klebsiella aerogenes,Male,0 to 2 Years,Amoxycillin clavulanate_I,Resistant
+2013,Enterobacter cloacae,Female,19 to 64 Years,Amoxycillin clavulanate_I,Resistant
+2013,Enterobacter cloacae,Male,19 to 64 Years,Amoxycillin clavulanate_I,Resistant
+2013,Haemophilus influenzae,Female,3 to 12 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Male,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Serratia marcescens,Female,85 and Over,Amoxycillin clavulanate_I,Susceptible
+2013,Haemophilus influenzae,Female,65 to 84 Years,Amoxycillin clavulanate_I,Susceptible
+2013,Serratia marcescens,Male,65 to 84 Years,Amoxycillin clavulanate_I,Resistant
+2013,Serratia marcescens,Male,19 to 64 Years,Ampicillin_I,Resistant
+2013,Serratia marcescens,Female,19 to 64 Years,Ampicillin_I,Resistant
+2013,Enterobacter cloacae,Female,65 to 84 Years,Ampicillin_I,Resistant
+2013,Escherichia coli,Female,85 and Over,Ampicillin_I,Resistant
+2013,Haemophilus influenzae,Male,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Ampicillin_I,Intermediate
+2013,Haemophilus influenzae,Male,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Haemophilus influenzae,Male,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Haemophilus influenzae,Male,65 to 84 Years,Ampicillin_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Haemophilus influenzae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Enterococcus faecium,Male,19 to 64 Years,Ampicillin_I,Resistant
+2013,Enterococcus faecalis,Female,19 to 64 Years,Ampicillin_I,Resistant
+2013,Enterococcus faecalis,Female,65 to 84 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,Unknown,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Klebsiella pneumoniae,Female,65 to 84 Years,Ampicillin_I,Intermediate
+2013,Enterobacter cloacae,Male,65 to 84 Years,Ampicillin_I,Resistant
+2013,Klebsiella aerogenes,Female,19 to 64 Years,Ampicillin_I,Resistant
+2013,Klebsiella pneumoniae,Male,0 to 2 Years,Ampicillin_I,Resistant
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Male,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Klebsiella pneumoniae,Female,85 and Over,Ampicillin_I,Resistant
+2013,Klebsiella pneumoniae,Female,19 to 64 Years,Ampicillin_I,Resistant
+2013,Klebsiella pneumoniae,Male,65 to 84 Years,Ampicillin_I,Resistant
+2013,Klebsiella oxytoca,Female,19 to 64 Years,Ampicillin_I,Resistant
+2013,Klebsiella pneumoniae,Female,13 to 18 Years,Ampicillin_I,Resistant
+2013,Enterococcus faecium,Female,65 to 84 Years,Ampicillin_I,Susceptible
+2013,Enterococcus faecium,Female,19 to 64 Years,Ampicillin_I,Resistant
+2013,Enterococcus faecalis,Female,65 to 84 Years,Ampicillin_I,Resistant
+2013,Enterococcus faecalis,Male,19 to 64 Years,Ampicillin_I,Resistant
+2013,Enterobacter cloacae,Male,65 to 84 Years,Ampicillin_I,Resistant
+2013,Klebsiella pneumoniae,Male,19 to 64 Years,Ampicillin_I,Resistant
+2013,Enterococcus faecalis,Male,65 to 84 Years,Ampicillin_I,Susceptible
+2013,Enterococcus faecalis,Female,85 and Over,Ampicillin_I,Susceptible
+2013,Klebsiella aerogenes,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Enterobacter cloacae,Male,65 to 84 Years,Ampicillin_I,Resistant
+2013,Enterobacter cloacae,Female,65 to 84 Years,Ampicillin_I,Resistant
+2013,Klebsiella pneumoniae,Male,65 to 84 Years,Ampicillin_I,Resistant
+2013,Enterobacter kobei,Female,0 to 2 Years,Ampicillin_I,Resistant
+2013,Haemophilus influenzae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus agalactiae,Female,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Enterococcus faecalis,Male,19 to 64 Years,Ampicillin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,3 to 12 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,85 and Over,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,0 to 2 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,0 to 2 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,0 to 2 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,0 to 2 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,3 to 12 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,3 to 12 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,,65 to 84 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,3 to 12 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,65 to 84 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,65 to 84 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,65 to 84 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Female,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Female,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,3 to 12 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,0 to 2 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,85 and Over,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Female,65 to 84 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,65 to 84 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,65 to 84 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Resistant
+2013,Streptococcus pneumoniae,Male,19 to 64 Years,Azithromycin_I,Susceptible
+2013,Streptococcus pneumoniae,Male,65 to 84 Years,Azithromycin_I,Susceptible

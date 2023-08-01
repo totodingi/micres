@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  src: url("../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf");
+  font-family: Ionicons;
+}
